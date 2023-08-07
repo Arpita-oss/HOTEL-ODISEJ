@@ -95,7 +95,3 @@ gsap.to("#page2 h3 span",
         scrub:2
     }
  })
- gsap.to("#dibba-1",
- {
-    
- })
